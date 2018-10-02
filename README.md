@@ -7,5 +7,6 @@ This is a learn by doing project where I used the Vue.js framework in conjunctio
 - Abstract away more elements to its own components.
 - Import css helpers.
 - Make it responsive.
+- Remove hardcoded values.
 - Use a state management library such as Vuex instead of relying on higher order components.
 - Learn more about Vue and the API in general.
