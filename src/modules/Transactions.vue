@@ -30,13 +30,13 @@ export default {
 @import "./../styles/settings.scss";
 
 .heading {
-    padding-bottom: 2rem;
+  padding-bottom: 2rem;
 }
 
 .transactions {
   &-list {
     max-height: 200px;
-    overflow: scroll;
+    overflow-y: auto;
   }
   &-item {
     display: flex;

@@ -102,7 +102,7 @@ export default {
   }
   ul {
     max-height: 200px;
-    overflow: scroll;
+    overflow-y: auto;
     display: none;
   }
   .toggler {
